@@ -1,4 +1,4 @@
-# computer-graphic-project
+# computer-graphic-project (AN ASTRONAUT IS FLOATING IN SPACE AND SURROUNDED BY BUTTERFLIES)
 this is a project only serve for education which is created by UIT-HCM students (k15)
 - Source models:
 + Astronaut 3D Model: https://sketchfab.com/3d-models/astronaut-287589e324b942b8be57dbd6c539b2ab
