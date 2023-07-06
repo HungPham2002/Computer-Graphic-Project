@@ -1,3 +1,4 @@
+![University of Information Technology](https://www.uit.edu.vn/)
 <p align="center", font-size = 200px, >
   CS105.N22.KHCL - Computer Graphic - Đồ Họa Máy Tính
 </p>
