@@ -1,5 +1,5 @@
-<p align="center", font-size = 50px>
-  CS105.N22.KHCL
+<p align="center", font-size = 200px, >
+  CS105.N22.KHCL - Computer Graphic - Đồ Họa Máy Tính
 </p>
 
 # computer-graphic-project 
