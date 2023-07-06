@@ -1,7 +1,8 @@
 ![University of Information Technology](https://www.uit.edu.vn/)
-<p align="center", font-size = 200px, >
+<h1 align="center">
   CS105.N22.KHCL - Computer Graphic - Đồ Họa Máy Tính
-</p>
+</h1>
+  
 
 # computer-graphic-project 
 - Lecturer: PhD Mai Tien Dung
