@@ -1,5 +1,5 @@
-<p align="center">
-  # CS105.N22.KHCL
+<p align="center", font-size = 50px>
+  CS105.N22.KHCL
 </p>
 
 # computer-graphic-project 
