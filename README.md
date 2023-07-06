@@ -24,5 +24,5 @@ NOTE: this is a project only to learn which is created by students of Computer S
 + step 2: 'npm run dev'
 + step 3: Result
 ### Contact: {20521371;20521233}@gm.uit.edu.vn
-### Phạm Hữu Hùng & Lê Văn Duy
+### Pham Huu Hung & Le Van Duy
 ## THANK YOU!
