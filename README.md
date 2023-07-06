@@ -1,6 +1,6 @@
 # computer-graphic-project 
 ## description: an astronaut is floating in space and surrounded by butterflies
-NOTE: this is a project serve for learning only which is created by Computer Science UIT-HCM students (k15)
+NOTE: this is a project only to learn which is created by Computer Science UIT-HCM students (k15)
 ### Source models:
 + Astronaut 3D Model: https://sketchfab.com/3d-models/astronaut-287589e324b942b8be57dbd6c539b2ab
 + Mars 3D Model: https://sketchfab.com/3d-models/mars-9c7bbc64d8c74acfa9ec344c0fc10e1a
