@@ -9,7 +9,7 @@
 # computer-graphic-project 
 - Lecturer: PhD Mai Tien Dung
 ## description: an astronaut is floating in space and surrounded by butterflies
-NOTE: this is a project only to learn which is created by Computer Science UIT-HCM students (k2020)
+NOTE: this is a project only to learn which is created by students of Computer Science (k2020)
 ### Source models:
 + Astronaut 3D Model: https://sketchfab.com/3d-models/astronaut-287589e324b942b8be57dbd6c539b2ab
 + Mars 3D Model: https://sketchfab.com/3d-models/mars-9c7bbc64d8c74acfa9ec344c0fc10e1a
@@ -23,4 +23,6 @@ NOTE: this is a project only to learn which is created by Computer Science UIT-H
 + step 1: open Terminal in the project and 'npm install'
 + step 2: 'npm run dev'
 + step 3: Result
+- Contact: {20521371;20521233}@gm.uit.edu.vn
+- Phạm Hữu Hùng & Lê Văn Duy
 ### THANK YOU!
