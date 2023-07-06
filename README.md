@@ -1,4 +1,6 @@
-![University of Information Technology](https://www.uit.edu.vn/)
+<a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/29fa0dade8ce1281054a2a4844513e68f8868f15057452c709392fe49b01d398/68747470733a2f2f692e696d6775722e636f6d2f576d4d6e5352742e706e67" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology" data-canonical-src="https://i.imgur.com/WmMnSRt.png" style="max-width: 100%;">
+  </a>
 <h1 align="center">
   CS105.N22.KHCL - Computer Graphic - Đồ Họa Máy Tính
 </h1>
