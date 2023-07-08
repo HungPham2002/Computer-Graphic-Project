@@ -8,9 +8,12 @@
 # Customer Churn Dashboard
 - Class: ECOMMERCE - IS334.N21.TMCL
 - Lecturer: Mr. Do Duy Thanh
-## How we can create this
+![Dashboard](https://drive.google.com/file/d/1-4aF9dAXE7mFT0xpLerjihNXPiuwMlg2/view?usp=drive_link)
+![Dashboard](https://drive.google.com/file/d/1uNHCUEVSrpn1YNK41bd1VwrJ80jFSI0r/view?usp=drive_link)
+## How we can create the dashboard
 - Streamlit: Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.
 ![streamlit](https://images.datacamp.com/image/upload/v1640050215/image27_frqkzv.png)
+
 ### Contact: {20521371;20521233}@gm.uit.edu.vn
 ### Pham Huu Hung & Le Van Duy
 ## THANK YOU!
