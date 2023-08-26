@@ -23,6 +23,9 @@ NOTE: this is a project only to learn which is created by students of Computer S
 + NodeJS
 + ThreeJS
 + Visual studio code
+## Demo
+
+![demo](https://github.com/HungPham2002/Computer-Graphic-Project/blob/main/project%20demo%20overview.png)
 ## How to RUN project:
 + step 1: open Terminal in the project and 'npm install'
 + step 2: 'npm run dev'
